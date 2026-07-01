@@ -5,7 +5,7 @@
 I am a software developer with a passion for creating innovative solutions and learning new technologies. Welcome to my GitHub profile!
 
 ## 📫 How to reach me:
-- WhatsApp: [+91 7373288133](https://wa.me/8341125878)
+- WhatsApp: [+91 8341125878](https://wa.me/8341125878)
 
 
 ## 🔧 Technologies & Tools
